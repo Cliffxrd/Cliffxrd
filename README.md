@@ -1,4 +1,4 @@
-# Hey there! I'm Clifford 👋
+# Hey there! I'm Cliff 👋
 
 ## 👨🏼‍💻 Senior Android Engineer | UI/UX Guru | Creative Technologist
 >
