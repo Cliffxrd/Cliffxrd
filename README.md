@@ -4,7 +4,26 @@
   <img alt="Profile name banner dislaying CliffXRd, such that the XR is replaced with extended reality goggles." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+> [!TIP]
+> <details>
+> <summary> <sub> How to create theme-adaptive images, like this one </sub> </summary>
+>
+> <sub>This banner image changes depending on preference for light/dark mode</sub>
+>
+> ```markdown
+> <picture> <!-- Example: -->
+>  <source media="(prefers-color-scheme: dark)" srcset="URL_DARK_THEME_IMG"> <!-- used when github darkmode is active -->
+>  <source media="(prefers-color-scheme: light)" srcset="URL_LIGHT_THEME_IMG"> <!-- used when github lightmode is active -->
+>  <img src="URL_TO_FALLBACK_IMG" alt="fallback&accessibility text description" > <!-- used as fallback, including accessibility text support -->
+> </picture>
+> ```
+>
+> <sub> For more, see [Adding an image to suit your visitors](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#adding-an-image-to-suit-your-visitors) </sub>
+> </details>
+
 # Hey there! I'm Cliff 👋
+
+
 
 
 ## 👨🏼‍💻 Senior Android Engineer | UI/UX Guru | Creative Technologist
