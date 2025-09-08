@@ -1,25 +1,25 @@
-<img width="1120" height="334" alt="cliffxrd" src="https://github.com/user-attachments/assets/a132e345-ec53-4b45-8357-d8dcc6d80db7" />
-<br/>
 
-## Hey there! I'm Cliff 👋
 
-### 👨🏼‍💻 Senior Android Engineer | UI/UX Guru | Creative Technologist
->
-> *Engineering tomorrow's code, today.*
+# Hey there! I'm Cliff 👋
+
+
+## 👨🏼‍💻 Senior Android Engineer | UI/UX Guru | Creative Technologist
 
 I'm a Senior Android Engineer based in **London, UK** 🇬🇧, with a passion for bridging the gap between intricate engineering and beautiful, intuitive design. With over a decade of experience, I specialize in building dynamic design systems and crafting world-class, user-centric experiences on Android. I was most recently a Android Engineer at **Warner Bros. Discovery**, where I was the brainchild behind the **Adaptive Breakpoint System** for the Max streaming app, helping it win Google's "Best multi-device app of 2024".
 
-### 🚀 My Philosophy
+
+
+## 🚀 My Philosophy
 
 My core belief is that the best technology feels like magic. It's not just about writing clean code, but about understanding the human at the other end of the screen. I am a strong proponent of **Kotlin Multiplatform**, particularly **Compose Multiplatform**, to create cohesive and elegant experiences across all devices.
 
-My approach to UI/UX is rooted in a deep understanding of human psychology, cultural semiotics, and color theory. The goal is to craft interfaces that are not just intuitive, but emotionally resonant—leveraging established visual language (like the urgency of red or the calmness of blue) to guide the user experience on a subconscious level, making it feel effortless and natural.
-
 > *"The role of genius is not to complicate the simple, but to simplify the complicated."*
->
 > — Criss Jami
 
-### 🛠️ My Tech Stack & Tools
+My approach to UI/UX is rooted in a deep understanding of human psychology, cultural semiotics, and color theory. The goal is to craft interfaces that are not just intuitive, but emotionally resonant—leveraging established visual language (like the urgency of red or the calmness of blue) to guide the user experience on a subconscious level, making it feel effortless and natural.
+
+
+## 🛠️ My Tech Stack & Tools
 
 A glimpse into the technologies I work with often and love to use:
 
@@ -91,14 +91,16 @@ A glimpse into the technologies I work with often and love to use:
   </tbody>
 </table>
 
-### 🌱 What I'm currently focused on
+
+## 🌱 What I'm currently focused on
 
 -   🚀 Exploring the intersection of **Generative AI** and developer tools to enhance workflows.
 -   📱 Mastering responsive layouts for **foldable devices and large screens**.
 -   🎨 Contributing to the evolution of beautiful, scalable **Design Systems**.
 -   🤖 Tinkering with **3D printing** and game design in my spare time.
 
-### 📫 Let's Connect!
+
+## 📫 Let's Connect!
 
 I'm always open to collaborating on interesting projects or just chatting about tech, design, or a great cup of coffee ☕.
 
