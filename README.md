@@ -1,5 +1,8 @@
-
-<img width="1024" height="411" alt="just_bnner" src="https://github.com/user-attachments/assets/c1d77a75-cf8b-4477-9759-07a0723a2ca1" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6f03ab33-df24-4066-a087-fc963e4245e9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/75bdbdb4-5467-4086-9273-9c897da67a23">
+  <img alt="Profile name banner dislaying CliffXRd, such that the XR is replaced with extended reality goggles." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 # Hey there! I'm Cliff 👋
 
