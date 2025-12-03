@@ -39,7 +39,7 @@ My core belief is that the best technology feels like magic. It's not just about
 > *"The role of genius is not to complicate the simple, but to simplify the complicated."*
 > — Criss Jami
 
-My approach to UI/UX is rooted in a deep understanding of human psychology, cultural semiotics, and color theory. The goal is to craft interfaces that are not just intuitive, but emotionally resonant—leveraging established visual language (like the urgency of red or the calmness of blue) to guide the user experience on a subconscious level, making it feel effortless and natural.
+My approach to UI/UX is rooted in a deep understanding of human psychology, cultural semiotics, and color theory. The goal is to craft interfaces that are not just intuitive, but emotionally resonant, leveraging established visual language (like the urgency of red or the calmness of blue) to guide the user experience on a subconscious level, making it feel effortless and natural.
 
 
 ## 🛠️ My Tech Stack & Tools
