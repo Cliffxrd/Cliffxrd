@@ -26,7 +26,7 @@
 
 
 
-## 👨🏼‍💻 Senior Android Engineer | UI/UX Guru | Creative Technologist
+## 👨🏼‍💻 Senior Software Engineer | UI/UX Guru | Creative Technologist
 
 I'm a Senior Android Engineer based in **London, UK** 🇬🇧, with a passion for bridging the gap between intricate engineering and beautiful, intuitive design. With over a decade of experience, I specialize in building dynamic design systems and crafting world-class, user-centric experiences on Android. I was most recently a Android Engineer at **Warner Bros. Discovery**, where I was the brainchild behind the **Adaptive Breakpoint System** for the Max streaming app, helping it win Google's "Best multi-device app of 2024".
 
