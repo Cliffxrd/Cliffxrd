@@ -127,6 +127,6 @@ A glimpse into the technologies I work with often and love to use:
 
 I'm always open to collaborating on interesting projects or just chatting about tech, design, or a great cup of coffee ☕.
 
-[<img src="https://img.shields.io/badge/Career%20Portfolio-cliff.bio-ff69b4?style=for-the-badge&logo=ionic&logoColor=white" />](https://cliff.bio) 
-[<img src="https://img.shields.io/badge/Book%20a%20Virtual%20Coffee -cliff.coffee-fff600?style=for-the-badge&logo=buymeacoffee&logoColor=white" />](https://cliff.coffee) 
-[<img src="https://img.shields.io/badge/Chat%20With%20Me-cliff.chat-0084ff?style=for-the-badge&logo=messenger&logoColor=white" />](https://cliff.chat)
+[<img src="https://img.shields.io/badge/Career%20Portfolio-ide.cliffxrd.com-ff69b4?style=for-the-badge&logo=ionic&logoColor=white" />](https://ide.cliffxrd.com) 
+[<img src="https://img.shields.io/badge/Book%20a%20Virtual%20Coffee-coffee.cliffxrd.com-fff600?style=for-the-badge&logo=buymeacoffee&logoColor=white" />](https://coffee.cliffxrd.com) 
+[<img src="https://img.shields.io/badge/Chat%20With%20Me-chat.cliffxrd.com-0084ff?style=for-the-badge&logo=messenger&logoColor=white" />](https://chat.cliffxrd.com)
