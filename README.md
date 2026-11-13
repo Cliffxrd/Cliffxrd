@@ -22,7 +22,7 @@
 > </picture>
 > ```
 >
-> <sub>For more, see <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#adding-an-image-to-suit-your-visitors">Adding an image to suit your visitors</a>. Banner gallery: <a href="./assets/banner-dark.png">Neon Tides Dark</a> · <a href="./assets/banner-light.png">Neon Tides Light</a> · <a href="./assets/banner-neon-tides-sunset.png">Neon Tides Sunset Edition</a> · <a href="https://github.com/user-attachments/assets/6f03ab33-df24-4066-a087-fc963e4245e9">Classic Matrix Dark</a> · <a href="https://github.com/user-attachments/assets/75bdbdb4-5467-4086-9273-9c897da67a23">Classic Matrix Light</a>.</sub>
+> <sub>For more, see <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#adding-an-image-to-suit-your-visitors">Adding an image to suit your visitors</a>. Banner &amp; 3D Mesh Gallery: <a href="./assets/banner-dark.png">Neon Tides Dark</a> · <a href="./assets/banner-light.png">Neon Tides Light</a> · <a href="./assets/banner-neon-tides-sunset.png">Neon Tides Sunset Edition</a> · <a href="./assets/cliffxrd_neon_tides_3d.glb">3D GLB Replica (Blender 5.1)</a> · <a href="./assets/blender_3d_replica_angled.png">Blender 5.1 3D Render</a> · <a href="https://github.com/user-attachments/assets/6f03ab33-df24-4066-a087-fc963e4245e9">Classic Matrix Dark</a> · <a href="https://github.com/user-attachments/assets/75bdbdb4-5467-4086-9273-9c897da67a23">Classic Matrix Light</a>.</sub>
 > </details>
 
 # Hey there! I'm Cliff 👋
