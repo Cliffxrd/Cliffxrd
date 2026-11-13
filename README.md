@@ -109,18 +109,18 @@ Rather than hosting a static web resume, I engineered a consolidated **Kotlin Mu
 </table>
 
 ```mermaid
-flowchart LR
-    subgraph Browser["Hybrid Browser Viewport"]
-        direction TB
-        WASM["z-index: 10 — Compose Multiplatform (Kotlin/Wasm + Skiko)\nBlendMode.Clear Glassmorphic UI & KUDUS Tokens"]
-        WEBGL["z-index: 0 — Native Three.js WebGL Engine\nRayleigh Sky, FFT Water Shaders, GLTF Shoreline & 3-Regime Camera"]
-        WASM -->|Transparent Canvas Punch-Through| WEBGL
+flowchart TD
+    subgraph Browser["Hybrid Browser Viewport (Single Kotlin/Wasm SPA)"]
+        WASM["z-index 10: Compose Multiplatform (Kotlin/Wasm + Skiko UI)"]
+        WEBGL["z-index 0: Native Three.js WebGL Engine (GLSL Shaders + GLTF)"]
+        WASM -->|"BlendMode.Clear Glassmorphic Transparency"| WEBGL
     end
 
-    Router["Runtime Hostname Router\n(Single Wasm SPA)"] --> Hub["cliffxrd.com\nNeon Tides 3D Hub"]
-    Router --> IDE["ide.cliffxrd.com / bio.cliffxrd.com\nCareerIDE Workbench"]
-    Router --> Chat["chat.cliffxrd.com\n360° Skybox Chat Cortex"]
-    Router --> Coffee["coffee.cliffxrd.com\nVirtual Coffee Lounge"]
+    WEBGL --> Router["Runtime Hostname Router"]
+    Router --> Hub["cliffxrd.com - Neon Tides 3D Hub"]
+    Router --> IDE["ide.cliffxrd.com - CareerIDE Workbench"]
+    Router --> Chat["chat.cliffxrd.com - 360 Skybox Chat Cortex"]
+    Router --> Coffee["coffee.cliffxrd.com - Virtual Coffee Lounge"]
 ```
 
 ---
